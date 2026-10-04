@@ -41,6 +41,7 @@ def num_guesser():
     #         max_num = mid
     #         mid = int(max_num - ((min_num + max_num) / 2))
     #         print(f"max_num: {max_num} -- mid:{mid}")
+
     steps = 1
     while min_num <= max_num:
         mid = int((min_num + max_num) / 2)

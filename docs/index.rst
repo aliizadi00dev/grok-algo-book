@@ -21,16 +21,8 @@ True   True   True
 =====  =====  =======
 
 
-====  ====  ====
-A     B     C
-====  ====  ====
 
 
-+------------------------------+------------+----------+------------+
-| lorem lorem lorem ipusum sume| header 1   | lkjsdfl  | klsjdfkljds|
-+==============================+============+==========+============+
-|klsjdklfjklsj klsjdklfj ljkl  | lksjdklfjs | lsjdlkfj | sldjfljsdk |
-+------------------------------+------------+----------+------------+
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
