@@ -26,14 +26,28 @@ I can't figure out the binary search implementation!?
 
 Problem 2:
 ----------
-I cant figure out some
+I was a little confused about logarithms!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. admonition:: Try to solve:
   
-  At first I try to implement binary search without AI help or viewing book's implementation.
-  But this is not worked. After that I use AI to get a correct implementation but my code output
-  was not correct! Finally I used book's implementation in page 9 to correct my different program.
+  1. Read the book's definition for logarithms.
 
+  2. Watch some tutorials in KhanAcademy about logarithms.
+
+  3. Solve some practices in KhanAcademy about logarithms.
+
+
+.. ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼
+
+Problem 3:
+----------
+I had no idea to understand the concept of permuatation!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. admonition:: Try to solve:
+  
+  1. Watch one video about permutation in KhanAcademy
+
+  2. Compare this concept to factorial concept (n!) and the ambiguity was resolved.
 
 
 
