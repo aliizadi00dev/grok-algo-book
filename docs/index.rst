@@ -4,91 +4,41 @@
    contain the root `toctree` directive.
 
 
+=================================
 Grokking Algorithms Concepts documentation
 =================================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+Problems
+==========
 
-=====  =====  =======
-A      B      A and B
-=====  =====  =======
-False  False  False
-True   False  False
-False  True   False
-True   True   True
-=====  =====  =======
-
-
+Problem 1:
+----------
+I can't figure out the binary search implementation!?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. admonition:: Try to solve:
+  
+  At first I try to implement binary search without AI help or viewing book's implementation.
+  But this is not worked. After that I use AI to get a correct implementation but my code output
+  was not correct! Finally I used book's implementation in page 9 to correct my different program.
 
 
+.. ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-  **Quoted Paragraph:** Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
-
-  * Lorem ipsum dolor sit amet
-
-    * Lorem ipsum dolor sit amet
-
-1. Lorem ipsum dolor sit amet
-2. Lorem ipsum dolor sit amet
-
-#. Lorem ipsum dolor sit amet
-#. Lorem ipsum dolor sit amet
-
-
->>> 1 + 1
-2
-
-
-Definition list
-  this is a test text ttexttexttexttexttexttexttextext
-
-  this is a test text ttexttexttexttexttexttexttextext
-
-
-Definition list
-  this is a test text ttexttexttexttexttexttexttextext
-
-    this is a test text ttexttexttexttexttexttexttextext
-
-      this is a test text ttexttexttexttexttexttexttextext
-
-Line blocks
-  | thise lines are
-  | broken exactly like in
-  | the source file. 
+Problem 2:
+----------
+I cant figure out some
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. admonition:: Try to solve:
+  
+  At first I try to implement binary search without AI help or viewing book's implementation.
+  But this is not worked. After that I use AI to get a correct implementation but my code output
+  was not correct! Finally I used book's implementation in page 9 to correct my different program.
 
 
 
 
-This is a normal text paragraph. The next paragraph is a code sample:: 
-
-  import sys
-
-  print("hello world")
-
-
-This is a normal text paragraph again
-
-
-
-
-.. glossary::
-   term1
-   term2
-    ddefinitiondefinitiondefinitiondefinitiondefinitiondefinitiondefinitionefinition
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
