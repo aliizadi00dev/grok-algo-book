@@ -2,3 +2,4 @@
 !/docs/_build/latex
 /docs/_build/latex/*
 !/docs/_build/latex/*.pdf
+/.venv

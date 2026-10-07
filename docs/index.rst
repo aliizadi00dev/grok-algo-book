@@ -76,17 +76,25 @@ I want to inspect call stacks in a Python program that runs a recursive factoria
      * ``perf``
   3. First I used ``py-spy``::
 
-      py-spy record -o out.svg --pid 66763
+      py-spy record -o out.svg --pid <PID>
 
     .. image:: _static/out.svg
+    The result is good but not perfect! because I want more details about each calling stacks.
+  4. After that I used ``gdb`` (GNU Debugger) tool::
+
+      gdb -p <PID>
+
+     But I can't use it because I did not understand some concepts in this context.
+
+     **Note:** If you want to run gdb witout operation permmision error you should run this command before::
+
+      sudo sysctl kernel.yama.ptrace_scope=0 
+  5. I didn't try two other tools: ``faulthandler`` and ``perf`` for time saving.
+
+
 
 
      
-This is a very long sentence that I want to keep
-several source lines, but it should render as a
-single paragraph in the PDF.
-
-
 
 
 

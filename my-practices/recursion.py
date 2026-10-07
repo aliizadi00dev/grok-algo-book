@@ -28,4 +28,5 @@ def fact(x):
         return result
 
 
-fact(5)
+while True:
+    fact(5)
