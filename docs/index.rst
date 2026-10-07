@@ -4,9 +4,9 @@
    contain the root `toctree` directive.
 
 
-=================================
+==========================================
 Grokking Algorithms Concepts documentation
-=================================
+==========================================
 
 Problems
 ==========
@@ -15,7 +15,7 @@ Problem 1:
 ----------
 
 I can't figure out the binary search implementation!?
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. admonition:: What I tried
   
@@ -30,7 +30,7 @@ Problem 2:
 ----------
 
 I was a little confused about logarithms!
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. admonition:: What I tried
   
@@ -47,7 +47,7 @@ Problem 3:
 ----------
 
 I had no idea to understand the concept of permuatation!
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. admonition:: What I tried
   
@@ -62,7 +62,7 @@ Problem 4:
 ----------
 
 I want to inspect call stacks in a Python program that runs a recursive factorial function!
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. admonition:: What I tried
 
@@ -78,8 +78,9 @@ I want to inspect call stacks in a Python program that runs a recursive factoria
 
       py-spy record -o out.svg --pid <PID>
 
-    .. image:: _static/out.svg
-    The result is good but not perfect! because I want more details about each calling stacks.
+     .. image:: _static/out.svg
+
+     The result is good but not perfect! because I want more details about each calling stacks.
   4. After that I used ``gdb`` (GNU Debugger) tool::
 
       gdb -p <PID>
